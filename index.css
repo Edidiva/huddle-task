@@ -98,6 +98,7 @@ padding: 15px 25px;
 font-weight: 700;
 font-family: 'Open Sans';
 border: none;
+margin-top:20px ;
 }
 .button:hover{
 background-color:hsla(322, 100%, 66%, 0.726);
